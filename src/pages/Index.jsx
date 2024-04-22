@@ -4,15 +4,15 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaFilePdf } from "react-icons/fa";
 
 const Index = () => {
   return (
-    <Box p={8}>
+    <Box p={8} bgGradient="linear(to-r, blue.200, blue.500)">
       <Flex direction="column" align="center" maxW="1200px" m="auto">
         {/* Header Section */}
         <VStack spacing={4}>
           <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1573929491484-c151f78d50e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxqb2huJTIwZ2FjaGFyYSUyMG13YW5naXxlbnwwfHx8fDE3MTM3NzM4OTh8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="John Gachara Mwangi" />
-          <Text fontSize="2xl" fontWeight="bold">
+          <Text fontSize="2xl" fontWeight="bold" color="white">
             John Gachara Mwangi
           </Text>
-          <Text fontSize="xl" color="gray.500">
+          <Text fontSize="xl" color="whiteAlpha.800">
             Software Engineer
           </Text>
         </VStack>
