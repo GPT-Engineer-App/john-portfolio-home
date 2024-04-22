@@ -38,7 +38,7 @@ const Index = () => {
           <Text fontSize="xl" fontWeight="bold" mb={2}>
             About Me
           </Text>
-          <Text fontSize="md">I am a passionate Software Engineer with a focus on building scalable web applications and services. With a background in computer science, I specialize in full-stack development, leveraging modern technologies and frameworks to deliver exceptional user experiences.</Text>
+          <Text fontSize="md">I'm John Gachara Mwangi, a skilled software engineer specializing in fullstack development and data science with a focus on Python and JavaScript. With a passion for creating powerful and scalable solutions, I have dedicated myself to building the backbone of web applications that deliver exceptional user experiences.</Text>
         </Box>
 
         {/* Projects Section */}
